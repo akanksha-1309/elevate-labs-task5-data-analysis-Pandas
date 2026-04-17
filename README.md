@@ -75,13 +75,22 @@ Task5_Data_Analysis/
 
 ---
 
-## 📸 Output Screenshots
-Screenshots are included in the `screenshots/` folder showing:
-- Data preview
-- Groupby results
-- Bar chart
-- Pie chart
-- Line chart
+## 📸 Screenshots
+
+### Data Preview
+![Data](screenshots/data_preview.png)
+
+### Groupby Analysis
+![Groupby](screenshots/groupby_product_sales.png)
+
+### Bar Chart
+![Bar](screenshots/bar_chart.png)
+
+### Pie Chart
+![Pie](screenshots/pie_chart.png)
+
+### Line Chart
+![Line](screenshots/line_chart.png)
 
 ---
 
